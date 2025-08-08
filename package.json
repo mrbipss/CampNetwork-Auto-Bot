@@ -23,7 +23,7 @@
     "discord.js": "^14.14.1",
     "dotenv": "^16.3.1",
     "ethers": "^6.8.1",
-    "ethers3-wallet": "^3.0.1",
+    "ethersjs3-wallet": "^3.0.11",
     "imap": "^0.8.19",
     "inquirer": "^8.2.6",
     "node-telegram-bot-api": "^0.64.0",
